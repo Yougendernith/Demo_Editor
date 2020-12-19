@@ -6,4 +6,4 @@
 ### 4. If you get any error it means that node is not installed on you machine.To download node [click Here](https://nodejs.org/en/)
 ### 5. After installing **node** do the 3rd step
 ### 6. Now you have to type `npm start` in you terminal to run the project
-### 7. If your project doesn't work even after typing `npm start` then click here [localhost:3000](localhost:3000)
+### 7. If your project doesn't work even after typing `npm start` then click here [](localhost:3000)
